@@ -8,7 +8,6 @@ I'm a second-year student of Web Application Development (DAW) passionate about 
 - Responsive and accessible UI design  
 - Database management: MySQL  
 - Version control with Git and GitHub  
-- Building digital platforms like rental management systems  
 
 ---
 
