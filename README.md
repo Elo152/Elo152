@@ -26,5 +26,3 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), apasiona
 - Email: [eloisa152@msn.com](mailto:eloisa152@msn.com)  
 
 ---
-
-> "El único límite para alcanzar tus metas está en tu mente. 🚀"
